@@ -1,5 +1,5 @@
-# running-on-me
-Apps and frameworks confirmed to run on the server.swifton.me infrastructure
+# Running on serve.swifton.me
+A curated list of apps and frameworks confirmed to run on the server.swifton.me infrastructure
 
 ## Frameworks
 

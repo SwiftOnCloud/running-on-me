@@ -1,5 +1,8 @@
 # Running on serve.swifton.me
-A curated list of apps and frameworks confirmed to run on the server.swifton.me infrastructure
+
+## Web Frameworks
+
+A curated list of web frameworks and their sample apps confirmed to run on the server.swifton.me infrastructure
 
 | Framework | Sample App | Try it out |
 |:---------:|:----------:|:----------:|
@@ -8,6 +11,8 @@ A curated list of apps and frameworks confirmed to run on the server.swifton.me 
 | [Swifton](https://github.com/necolt/Swifton) | [Swifton-TodoApp](https://github.com/necolt/Swifton-TodoApp) | [![Deploy to Swifton.me](https://serve.swifton.me/badge.png)](https://serve.swifton.me/oneclick?repository=https://github.com/necolt/Swifton-TodoApp) |
 | [Swiftra](https://github.com/takebayashi/swiftra) | [Swiftra-Example](https://github.com/takebayashi/swiftra-example) | [![Deploy to Swifton.me](https://serve.swifton.me/badge.png)](https://serve.swifton.me/oneclick?repository=https://github.com/takebayashi/swiftra-example) |
 | [Vapor](https://github.com/tannernelson/vapor) | [Vapor Example](https://github.com/tannernelson/vapor-example) | [![Deploy to Swifton.me](https://serve.swifton.me/badge.png)](https://serve.swifton.me/oneclick?repository=https://github.com/tannernelson/vapor-example) |
+
+## Apps
 
 Another curated list of apps confirmed to run on the serve.swifton.me infrastructure
 
